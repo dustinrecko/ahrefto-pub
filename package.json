@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "webpack index.js"
+  },
+  "devDependencies": {
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  },
+  "dependencies": {
+    "shortid": "^2.2.14"
+  }
+}
